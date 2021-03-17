@@ -1,6 +1,6 @@
 # :calling: Instagram Project
 
-![Page_instagram](C:\Users\nicol\Desktop\Page_instagram\Imagens\Page_instagram.JPG)
+![Page_instagram](https://github.com/Nickcarv18/Page_instagram/blob/master/Imagens/Page_instagram.JPG)
 
 ## 🚀 Tecnologias
 
